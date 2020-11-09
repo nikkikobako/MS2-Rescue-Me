@@ -48,14 +48,13 @@ My Rescue Center is a fictional website that aims to match rescued animals with 
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
 *   ### Wireframes
+    Wireframes are for mobile, tablet and desktop. There are 3 pages; home, fun pet game and love me plus a modal popup for all media's for home visits
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    Full Wireframes - [View](https://github.com/nikkikobako/MS2-Rescue-Me/blob/master/assets/wireframes/ms2-rescue-me-pdf.pdf)
 
     -   Mobile Wireframe - [View](https://github.com/)
 
     -   Contact Us Page Wireframe - [View](https://github.com/)
-
-    :house:[ Table of Contents](#home)
 
 :house:[ Table of Contents](#home)
 
