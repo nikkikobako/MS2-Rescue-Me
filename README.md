@@ -38,7 +38,7 @@ There is also a pop up form to request a home visit.
         4. As the creator, I want to make it easy for the visitor to find a pet.
         5. As the creator, I want to make it easy for the visitor to contact the rescue centre.
 
-    - Vistor 
+    - Visitor 
 
         1. As a visitor, I want to easily understand the main purpose of the site and learn more about the work of the rescue centre.
         2. As a visitor, I want to be able to easily navigate throughout the site to find content.
@@ -49,11 +49,11 @@ There is also a pop up form to request a home visit.
 
 -   ### Design <a name="design"></a>
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+        -   The two main colours used are 
     -   #### Typography
         -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   Imagery is important. The photos are the main attraction and are used to catch the users attention and highlight are animals.
 
 *   ### Wireframes <a name="wireframes"></a>
     Wireframes are for mobile, tablet and desktop. There are 3 pages; home, fun pet game and love me plus a modal popup for all media's for home visits
@@ -112,7 +112,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   #### Creator Goals
 
       1. As the creator, I want to showcase the animals I have at the rescue centre.
-            1. 
+            1. On entering the site the visitor will see a gallery selection of the available pets on the front page
+            2. 
 
 
         2. As the creator, I want to attract vistors to the site.
