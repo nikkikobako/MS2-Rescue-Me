@@ -1,45 +1,48 @@
 <h1 align="center">Rescue Me Website</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](#)
 
-This site is to showcase the animals avaialble for rescue at the Rescue Me Center
+This site is to showcase the animals avaialble for rescue at the Rescue Me Centre.
 
 <h2 align="center"><img src="#"></h2>
 
 # Table of Contents <a name="home"></a>
 1. [Introduction](#introduction)
 2. [UX](#ux)
-    1. [Website Goals](#webgoal)
-    2. [User Stories for How to go Vegan](#u
+    1. [User Stories](#stories)
+    2. [Design](#design)
+    3. [Wireframes](#wireframes)
 
 ## Introduction <a name="introduction"></a>
 
-My Rescue Center is a fictional website that aims to match rescued animals with loving owners and a perminant home.
+My Rescue Centre is a fictional website that aims to match rescued animals with loving owners and a perminant home.
+The site will consist of 3 pages containing information about the rescue center, a fun quiz to engage the user and the pets available for adoption. 
+There is also a pop up form to request a home visit.
 
-:house:[ Table of Contents](#home)
+[ Table of Contents](#home)
 
 ## User Experience (UX) <a name="ux"></a>
 
--   ### User stories
+-   ### User stories <a name="stories"></a>
 
-    -   #### First Time Visitor Goals
+   - Creator
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to be able see which pets are avaialble to adopt
+        1. As the creator, I want to showcase the animals I have at the rescue centre.
+        2. As the creator, I want to attract vistors to the site.
+        3. As the creator, I want to make the site fun to use.
+        4. As the creator, I want to make it easy for the visitor to find a pet.
+        5. As the creator, I want to make it easy for the visitor to contact the rescue centre.
 
-    -   #### Returning Visitor Goals
+    - Vistor 
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a visitor, I want to easily understand the main purpose of the site and learn more about the work of the rescue centre.
+        2. As a visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a visitor, I want to be able see which pets are available to adopt.
+        4. As a visitor, I want to be able to get full details from the site of the pets I am interested in.
+        5. As a visitor, I want to be able to start the process off to adopt my chosen pet.
 
-    -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
--   ### Design
+-   ### Design <a name="design"></a>
     -   #### Colour Scheme
         -   The two main colours used are Code Insititue red, and white.
     -   #### Typography
@@ -47,16 +50,12 @@ My Rescue Center is a fictional website that aims to match rescued animals with 
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
-*   ### Wireframes
+*   ### Wireframes <a name="wireframes"></a>
     Wireframes are for mobile, tablet and desktop. There are 3 pages; home, fun pet game and love me plus a modal popup for all media's for home visits
 
     Full Wireframes - [View](https://github.com/nikkikobako/MS2-Rescue-Me/blob/master/assets/wireframes/ms2-rescue-me-pdf.pdf)
 
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
-
-:house:[ Table of Contents](#home)
+ [ Table of Contents](#home)
 
 ## Features
 
@@ -101,7 +100,26 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from User Experience (UX) Section
 
--   #### First Time Visitor Goals
+-   #### Creator Goals
+
+      1. As the creator, I want to showcase the animals I have at the rescue centre.
+            1. 
+
+
+        2. As the creator, I want to attract vistors to the site.
+        3. As the creator, I want to make the site fun to use.
+        4. As the creator, I want to make it easy for the visitor to find a pet.
+        5. As the creator, I want to make it easy for the visitor to contact the rescue centre.
+
+-   #### Visitor Goals
+        1. As a visitor, I want to easily understand the main purpose of the site and learn more about the work of the rescue centre.
+        2. As a visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a visitor, I want to be able see which pets are available to adopt.
+        4. As a visitor, I want to be able to get full details from the site of the pets I am interested in.
+        5. As a visitor, I want to be able to start the process off to adopt my chosen pet.
+
+
+
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
@@ -120,40 +138,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
         3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
 
--   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
-
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
-
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
-
--   #### Frequent User Goals
-
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
-
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
-
-        1. The user would already be comfortable with the website layout and can easily click the blog link
-
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
 
 ### Further Testing
 
