@@ -9,9 +9,14 @@ This site is to showcase the animals avaialble for rescue at the Rescue Me Centr
 # Table of Contents <a name="home"></a>
 1. [Introduction](#introduction)
 2. [UX](#ux)
-    1. [User Stories](#stories)
-    2. [Design](#design)
-    3. [Wireframes](#wireframes)
+   1. [User Stories](#stories)
+   2. [Design](#design)
+   3. [Wireframes](#wireframes)
+3. [Features](#features)
+4. [Technologies Used](#technologies)
+5. [Testing](#testing)
+6. [Deployment](#deployment)
+7. [Credits](#credits)
 
 ## Introduction <a name="introduction"></a>
 
@@ -57,13 +62,15 @@ There is also a pop up form to request a home visit.
 
  [ Table of Contents](#home)
 
-## Features
+## Features <a name="features"></a>
 
 -   Responsive on all device sizes
 
 -   Interactive elements
 
-## Technologies Used
+[ Table of Contents](#home)
+
+## Technologies Used <a name="technologies"></a>
 
 ### Languages Used
 
@@ -91,7 +98,9 @@ There is also a pop up form to request a home visit.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
-## Testing
+[ Table of Contents](#home)
+
+## Testing <a name="testing"></a>
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -153,7 +162,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
 -   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
 
-## Deployment
+[ Table of Contents](#home)
+
+## Deployment <a name="deployment"></a>
 
 ### GitHub Pages
 
@@ -201,7 +212,9 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
-## Credits
+[ Table of Contents](#home)
+
+## Credits <a name="credits"></a>
 
 ### Code
 
@@ -226,3 +239,5 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
+
+[ Table of Contents](#home)
