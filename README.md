@@ -21,24 +21,24 @@ This site is to showcase the animals avaialble for rescue at the Rescue Me Centr
 ## Introduction <a name="introduction"></a>
 
 My Rescue Centre is a fictional website that aims to match rescued animals with loving owners and a perminant home.
-The site will consist of 3 pages containing information about the rescue center, a fun quiz to engage the user and the pets available for adoption. 
+The site will consist of 3 pages containing information about the rescue center, the pets available for adoption and a fun quiz to engage the user. 
 There is also a pop up form to request a home visit.
 
 [ Table of Contents](#home)
 
 ## User Experience (UX) <a name="ux"></a>
 
--   ### User stories <a name="stories"></a>
+### User stories <a name="stories"></a>
 
    - Creator
 
         1. As the creator, I want to showcase the animals I have at the rescue centre.
-        2. As the creator, I want to attract vistors to the site.
+        2. As the creator, I want to make the site easy to use and navigate and ensure vistors want to use us.
         3. As the creator, I want to make the site fun to use.
         4. As the creator, I want to make it easy for the visitor to find a pet.
         5. As the creator, I want to make it easy for the visitor to contact the rescue centre.
 
-    - Visitor 
+   - Visitor 
 
         1. As a visitor, I want to easily understand the main purpose of the site and learn more about the work of the rescue centre.
         2. As a visitor, I want to be able to easily navigate throughout the site to find content.
@@ -47,22 +47,25 @@ There is also a pop up form to request a home visit.
         5. As a visitor, I want to be able to start the process off to adopt my chosen pet.
 
 
--   ### Design <a name="design"></a>
-    -   #### Colour Scheme
+### Design <a name="design"></a>
+   -   #### Colour Scheme
         -   The two main colours used are 
-    -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
-    -   #### Imagery
-        -   Imagery is important. The photos are the main attraction and are used to catch the users attention and highlight are animals.
+   -   #### Typography
+        -   The Xanh Mono font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
+            Xanh Mono is a mono-serif typeface, designed by Lam Bao and Duy Dao. In Vietnamese, “Xanh” has a lot of meanings, including blue; green; young; etc
+            Xanh Mono presents a fresh and gentle look for the website.
+   -   #### Imagery
+        -   Imagery is important. The photos are the main attraction and are used to catch the users attention with the initial carousel. 
+            The love me page is then used to help the visitor pick their forever pet.
 
-*   ### Wireframes <a name="wireframes"></a>
-    Wireframes are for mobile, tablet and desktop. There are 3 pages; home, fun pet game and love me plus a modal popup for all media's for home visits
+### Wireframes <a name="wireframes"></a>
+Wireframes are for mobile, tablet and desktop. There are 3 pages; home, fun pet game and love me plus a modal popup for all media's for home visits
 
-    Full Wireframes - [View](https://github.com/nikkikobako/MS2-Rescue-Me/blob/master/assets/wireframes/ms2-rescue-me-pdf.pdf)
+Full Wireframes - [View](https://github.com/nikkikobako/MS2-Rescue-Me/blob/master/assets/wireframes/ms2-rescue-me-pdf.pdf)
 
- [ Table of Contents](#home)
+[ Table of Contents](#home)
 
-## Features <a name="features"></a>
+### Features <a name="features"></a>
 
 -   Responsive on all device sizes
 
@@ -113,11 +116,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
       1. As the creator, I want to showcase the animals I have at the rescue centre.
             1. On entering the site the visitor will see a gallery selection of the available pets on the front page
-            2. 
+            2. Once in the site the visitor can select a page to see all of the animals or a specific type of animals.
+            3. 
+      2. As the creator, I want to make the site easy to use and navigate and ensure vistors want to use us.
 
 
-        2. As the creator, I want to attract vistors to the site.
-        3. As the creator, I want to make the site fun to use.
+      3. As the creator, I want to make the site fun to use.
+            1. 
+
         4. As the creator, I want to make it easy for the visitor to find a pet.
         5. As the creator, I want to make it easy for the visitor to contact the rescue centre.
 
