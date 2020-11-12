@@ -49,7 +49,12 @@ There is also a pop up form to request a home visit.
 
 ### Design <a name="design"></a>
    -   #### Colour Scheme
-        -   The two main colours used are 
+        -   Background colour Deep Purple #000063
+        -   Text Off White #f8f8ff
+        -   Secondary colour Grey #c7c7c7
+        -   Text for secondary colour Black #000000
+
+
    -   #### Typography
         -   The Xanh Mono font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
             Xanh Mono is a mono-serif typeface, designed by Lam Bao and Duy Dao. In Vietnamese, “Xanh” has a lot of meanings, including blue; green; young; etc
