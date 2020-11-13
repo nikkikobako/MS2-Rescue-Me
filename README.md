@@ -54,7 +54,6 @@ There is also a pop up form to request a home visit.
         -   Secondary colour Grey #c7c7c7
         -   Text for secondary colour Black #000000
 
-
    -   #### Typography
         -   The Xanh Mono font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
             Xanh Mono is a mono-serif typeface, designed by Lam Bao and Duy Dao. In Vietnamese, “Xanh” has a lot of meanings, including blue; green; young; etc
@@ -62,6 +61,10 @@ There is also a pop up form to request a home visit.
    -   #### Imagery
         -   Imagery is important. The photos are the main attraction and are used to catch the users attention with the initial carousel. 
             The love me page is then used to help the visitor pick their forever pet.
+
+    -   #### Icon
+        -   The rescue me icon was created using canva, I used a one of their free templates and added some text using a purple colour to 
+            match my site colour Scheme
 
 ### Wireframes <a name="wireframes"></a>
 Wireframes are for mobile, tablet and desktop. There are 3 pages; home, fun pet game and love me plus a modal popup for all media's for home visits
