@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
+
+/* --- Body  */
+
+body {
+  font-family: "Xanh", sans-serif;
+  background-color: #000063;
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+  padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 6rem;
+}
