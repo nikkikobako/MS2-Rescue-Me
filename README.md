@@ -2,7 +2,7 @@
 
 [View the live project here.](#)
 
-This site is to showcase the animals avaialble for rescue at the Rescue Me Centre.
+This site is to showcase the animals available for rescue at the Rescue Me Centre.
 
 <h2 align="center"><img src="#"></h2>
 
@@ -58,16 +58,17 @@ There is also a pop up form to request a home visit.
         -   The Xanh Mono font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. 
             Xanh Mono is a mono-serif typeface, designed by Lam Bao and Duy Dao. In Vietnamese, “Xanh” has a lot of meanings, including blue; green; young; etc
             Xanh Mono presents a fresh and gentle look for the website.
+
    -   #### Imagery
         -   Imagery is important. The photos are the main attraction and are used to catch the users attention with the initial carousel. 
             The love me page is then used to help the visitor pick their forever pet.
 
-    -   #### Icon
-        -   The rescue me icon was created using canva, I used a one of their free templates and added some text using a purple colour to 
-            match my site colour Scheme
+    -   #### Icon and Logo
+        -   The rescue me icon and logo was created using canva, I used one of their free templates. For the icon I added some text using a purple colour to 
+            match my site colour Scheme. For the logo, this needed to be bigger, so I added a selection of animals to the logo.
 
 ### Wireframes <a name="wireframes"></a>
-Wireframes are for mobile, tablet and desktop. There are 3 pages; home, fun pet game and love me plus a modal popup for all media's for home visits
+Wireframes are for mobile, tablet and desktop. There are 3 pages; home, love me and a fun pet game, plus a modal popup for all media's for home visits
 
 Full Wireframes - [View](https://github.com/nikkikobako/MS2-Rescue-Me/blob/master/assets/wireframes/ms2-rescue-me-pdf.pdf)
 
