@@ -12,3 +12,13 @@ body {
   padding-left: 0;
   padding-bottom: 6rem;
 }
+
+/* --- Pictures  */
+
+#rescue-me-logo {
+  min-height: 3vh;
+  width: 80%;
+  text-align: center;
+  margin: 0.5rem;
+  padding: 0;
+}
