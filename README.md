@@ -51,7 +51,9 @@ There is also a pop up form to request a home visit.
    -   #### Colour Scheme
         -   Background colour Deep Purple #000063
         -   Text Off White #f8f8ff
-        -   Secondary colour Grey #c7c7c7
+        -   Secondary colours 
+            -   Grey #c7c7c7
+            -   Light Purple #6746c3
         -   Text for secondary colour Black #000000
 
    -   #### Typography

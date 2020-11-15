@@ -29,3 +29,11 @@ body {
     background-color: #f8f8ff;
     border: 2px solid #c7c7c7;
 }
+
+.btn-menu a {
+  color: #000063;
+}
+
+.btn-menu a:hover {
+  color: #6746c3;
+}
