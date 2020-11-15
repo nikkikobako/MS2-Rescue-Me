@@ -41,3 +41,27 @@ body {
   color: #6746c3;
   text-decoration: none;
 }
+
+/* --- Footer  */
+
+footer {
+  margin-top: 50px;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 0;
+  height: 3rem;
+  width: 100%;
+}
+.footer-row {
+  padding: 1.5rem;
+}
+
+.footer-row i {
+  font-size: 2rem;
+  color: #c9e7fc;
+}
+
+
+.social-links i:hover {
+  color: #6746c3;
+}
