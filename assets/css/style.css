@@ -22,3 +22,10 @@ body {
   margin: 0.5rem;
   padding: 0;
 }
+
+/* --- Buttons & Links */
+
+.btn-menu {
+    background-color: #f8f8ff;
+    border: 2px solid #c7c7c7;
+}
