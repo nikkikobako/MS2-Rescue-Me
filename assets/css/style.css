@@ -65,3 +65,5 @@ footer {
 .social-links i:hover {
   color: #6746c3;
 }
+
+div#rescue-map {min-height: 360px;}
