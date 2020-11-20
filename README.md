@@ -176,9 +176,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   
 
 [ Table of Contents](#home)
 
@@ -236,6 +234,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
+-   The map JavaScript was taken from the code-institue resume project, with some amendments for locations
+
+
 -   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
 
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
@@ -250,7 +251,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were created by the developer.
+-   Google map location is to a real rescue center called [Society for Abandended Animals](https://www.saarescue.co.uk/) 
 
 ### Acknowledgements
 
