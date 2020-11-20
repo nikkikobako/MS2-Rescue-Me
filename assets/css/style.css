@@ -66,4 +66,7 @@ footer {
   color: #6746c3;
 }
 
-div#rescue-map {min-height: 360px;}
+div#rescue-map {
+    min-height: 15rem;
+    width: 100%
+}
